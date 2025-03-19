@@ -1,0 +1,5 @@
+username : wasaniy121
+password : LwKA94ocLXHIyYqK
+
+connection : mongodb+srv://wasaniy121:LwKA94ocLXHIyYqK@cluster0.fnko9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+connection : mongodb://wasaniy121:LwKA94ocLXHIyYqK@cluster0-shard-00-00.fnko9.mongodb.net:27017,cluster0-shard-00-01.fnko9.mongodb.net:27017,cluster0-shard-00-02.fnko9.mongodb.net:27017/?replicaSet=atlas-293sdy-shard-0&ssl=true&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
